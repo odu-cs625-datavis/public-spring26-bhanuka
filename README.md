@@ -1,6 +1,6 @@
-# ODU CS 625 - Data Visualization, Fall 2025 - M.C. Weigle
+# ODU CS 625 - Data Visualization, Spring 2026 - Bhanuka Mahanama
 
-Asynchronous - all materials available through Canvas or GitHub
+Synchronous Web - all materials available through Canvas or GitHub
 
 ## Links
 
@@ -12,3 +12,6 @@ Asynchronous - all materials available through Canvas or GitHub
   * Accompanying lecture slides: [VAD-2021.pdf](https://www.cs.ubc.ca/~tmm/talks/vad/VAD-2021.pdf)
 * [CS 625 lecture slides](https://drive.google.com/drive/u/0/folders/19NsAVUzRQB7gVrsBULYO2_oUR2a3Yaf1) by [Michele Weigle](https://www.cs.odu.edu/~mweigle/)
 * [Observable notebook collection](https://observablehq.com/collection/@oducs-vis/cs625)
+
+
+This course is based on and incorporates course material developed by [Dr. Michele Weigle](https://www.cs.odu.edu/~mweigle/)
