@@ -1,10 +1,8 @@
 # Semester Project
 
-**Due:** Sunday, December 7 by 11:59pm
+**Due:** Sunday, May 03 by 11:59pm
 
-The main goal of the project is for you to apply your theoretical knowledge in a creative effort. 
-
-to take the knowledge and background that you are learning this semester about data visualization and put it to good use in a new, creative effort. Your final deliverable will be a single, static explanatory visualization that communicates an interesting insight. In this [blog post](https://ws-dl.blogspot.com/2025/01/2025-01-06-data-visualization-class.html), Dr. Weigle has included three student projects from Fall 2024, which you may use for inspiration. 
+The main goal of the project is for you to apply your theoretical knowledge in a creative effort. Your final deliverable will be a single, static explanatory visualization that communicates an interesting insight. In this [blog post](https://ws-dl.blogspot.com/2025/01/2025-01-06-data-visualization-class.html), Dr. Weigle has included three student projects from Fall 2024, which you may use for inspiration. 
 
 The project has two milestones in addition to the final visualization. You will receive feedback for each milestone that can be applied to next iteration of your project. The milestones are required and will be part of your final score for the project grade. 
 
