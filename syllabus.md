@@ -140,7 +140,7 @@ Your grade in this class will be based on the following components:
 * demonstrates comprehension and application of concepts discussed during the first half of the semester
 * open book, open notes
 
-**Project** - 25%
+**[Project](project.md)** - 25%
 
 * demonstrates understanding of course concepts by developing a single *explanatory* visualization that reveals something interesting
 * requires a demo video and a report explaining design decisions and how they relate to course concepts
