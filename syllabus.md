@@ -17,7 +17,9 @@
     * Or copy and paste: [https://canvas.odu.edu/courses/201491/external_tools/132](https://canvas.odu.edu/courses/201491/external_tools/132)
 * Email: bhnauka@cs.odu.edu 
 * Office: Dragas Hall, Room #1100H
-* Office hours (Appointments preferred): Wednesdays 10.00 - 12.00 AM
+* Office hours:
+    * Wednesdays 1.00 - 3.00 PM (Appointments preferred)
+    * Thursdays 5.00 - 7.00 PM (Appointments needed)
     * Zoom link: [CS 625 Office Hours](https://odu.zoom.us/j/93640721006?pwd=cfb7oYWrfNzCE6zfvshZjoQsrhL0ef.1)
     * Or copy and paste: [https://odu.zoom.us/j/93640721006?pwd=cfb7oYWrfNzCE6zfvshZjoQsrhL0ef.1](https://odu.zoom.us/j/93640721006?pwd=cfb7oYWrfNzCE6zfvshZjoQsrhL0ef.1)
 * Appointment link: [Outlook Appointment Scheduling](https://outlook.office.com/bookwithme/user/ac7bfcf89ad548f3b847d214a14dca99@cs.odu.edu?anonymous&ismsaljsauthenabled&ep=plink)
