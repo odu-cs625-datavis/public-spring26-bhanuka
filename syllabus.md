@@ -15,7 +15,7 @@
 * Class Hours: Tuesdays and Thursdays 1.30-2.45 PM
     * Zoom links: [Course Collaboration Tools](https://canvas.odu.edu/courses/201491/external_tools/132)
     * Or copy and paste: [https://canvas.odu.edu/courses/201491/external_tools/132](https://canvas.odu.edu/courses/201491/external_tools/132)
-* Email: bhnauka@cs.odu.edu 
+* Email: bhanuka@cs.odu.edu 
 * Office: Dragas Hall, Room #1100H
 * Office hours:
     * Wednesdays 1.00 - 3.00 PM (Appointments preferred)
