@@ -1,5 +1,5 @@
 # Homework 3: Create Visualization Idioms from Real-World Data
-**Due:** Sunday, March 22, 2026 by 11:59pm  
+**Due:** Sunday, March 15, 2026 by 11:59pm  
 
 ## Assignment
 
