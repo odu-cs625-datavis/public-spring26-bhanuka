@@ -68,3 +68,38 @@ See the [Project Milestone 1 - Topic](https://canvas.odu.edu/courses/201491/disc
 See the [Project Milestone 2 - Sketches](https://canvas.odu.edu/courses/201491/discussion_topics/1483172) Discussion Board for the items required for submission.
 
 
+## Final Chart
+
+Use principles from data journalism/storytelling to implement and refine **one of your proposed charts** from Milestone 2.  You *must* include a headline that summarizes the main finding of your chart (as opposed to a title that only describes your chart) and appropriate axis labels. You are strongly encouraged to include annotations or context as needed.  This will be your final chart, so care should be taken in choosing fonts, colors, and other design/aesthetic aspects.
+
+This final chart is to be a *single chart*. The goal is to have an explanatory visualization that showcases your interesting finding to the viewer. This is *not* meant to provide an exploratory view of your data. 
+
+Reminder: Students in the Computer Science MS or PhD programs must use either Python or Vega-Lite to implement their final chart.
+
+### Demo Video
+
+Create a short demo video where you walk through and explain your final visualization. You should point out the question you are addressing and how the visualization idiom you chose helps to answer the question and highlights your interesting finding.  Point out interesting aspects of your visualization and mention any parts that you are particularly proud of (for example, if there was something difficult that you figured out how to implement).  This demo video should be at most 5 minutes long and will be shared with your classmates (see [Submission](#submission) for instructions).
+
+*By Friday, May 08 at 11:59pm, you must have provided some constructive feedback (psotive, negative, and suggestions, or asked a question) in the Discussion Board regarding at least three of your classmate's videos.*
+
+### Report
+
+As always, I expect your report to include your name, CS625, date, and appropriate headings and Markdown markup for clarity and neatness. You will lose points if there are many spelling or grammatical errors.
+
+Your report, named `project-report.md`, should include the following information:
+
+* a brief description of your chosen dataset(s) (including link to the original source of the data)
+* final question that you addressed / interesting finding that you discovered
+* appropriately-sized image of your final chart
+* link to your final chart (similar to Homework 3, include whatever links or files are needed to view the implementation of your final chart)
+* explanation of how your final chart answers the question and how your headline fits your chart
+* "Final Thoughts" section that provides a commentary on the development process, including roughly how much time you spent developing your visualization and what aspects took the most time
+* "References" section that includes links to any examples and references that you used in completing this assignment
+
+### Submission
+
+You should be working in the private GitHub repo that was created for you in the odu-cs625-datavis organization. If you are working locally, make sure that you have committed and pushed your local repo, including any images you reference, to GitHub.
+
+Submit the URL of your report (not the URL of your repo) in Canvas under Semester Project.  *If you make changes to your report after submitting in Canvas, we will use the last commit time in your repo as your assignment submission time.*
+
+Submit the URL of your demo video in the Project Demo Videos Discussion Board. In your reply, note if the video is publicly available (e.g., via YouTube) or if it requires an ODU login (e.g., ODU Zoom video published via Panopto or in ODU OneDrive).
